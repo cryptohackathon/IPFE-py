@@ -6,4 +6,4 @@ As the python is one of the widely used languages, this is my small try to make 
 
 # How to Run the Code?
 
-This code is ready to run as it is without any changes. Just download this code and open it using jupyter notebook. 
+This code is ready to run as it is without any changes. Just download this code and open CryptoHackathonDemo.ipynb file using anaconda or google colab. Make sure that mission6.so file is in the same folder as of CryptoHackathonDemo.ipynb. 
