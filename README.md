@@ -8,7 +8,4 @@ As the python is one of the widely used languages, this is my small try to make 
 
 This code is ready to run as it is without any changes. Just download this code and open CryptoHackathonDemo.ipynb file using anaconda or google colab. Make sure that mission6.so file is in the same folder as of CryptoHackathonDemo.ipynb. 
 
-# Creating mission6.so file
-Successful creation of this file needs gmp and cifer libraries to be installed on your Linux machine. 
 
-cc -fPIC -shared -o mission6.so missionfe.c -lgmp -lcifer
